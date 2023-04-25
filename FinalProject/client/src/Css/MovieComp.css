@@ -1,0 +1,32 @@
+.divBorder {
+    border:3px solid black;
+    width: 80%;
+    align-items: center;
+    text-align: left;
+}
+
+img {
+    width: 60px;
+    height: 100px;
+}
+
+.divBorderSubscriptions {
+    border:3px solid black;    
+    align-items: center;
+    text-align: left;
+    height: 100%;
+    width: 100%;
+}
+
+.tableBorder {
+    border:3px solid black;
+    width: 20%;
+    align-items: center;
+    text-align: left;
+}
+
+.spanLink {
+    cursor:pointer;
+    color:blue;
+    text-decoration:underline;
+}

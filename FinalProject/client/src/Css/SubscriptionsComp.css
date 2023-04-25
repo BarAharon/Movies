@@ -1,0 +1,35 @@
+.divBorder {
+    border:3px solid black;
+    width: 30%;
+    align-items: center;
+    text-align: left;
+}
+
+.divBorderMoviesWatched {
+    border:3px solid black;    
+    align-items: center;
+    text-align: left;
+    height: 100%;
+    width: 80%;
+}
+
+.tableBorderMembers {
+    border:3px solid black;
+    width: 18%;
+    align-items: center;
+    text-align: left;
+}
+
+.divBorderAddSubscribe {
+    border:2px solid red;    
+    align-items: center;
+    text-align: left;
+    height: 100%;
+    width: 80%;
+}
+
+.spanLink {
+    cursor:pointer;
+    color:blue;
+    text-decoration:underline;
+}
